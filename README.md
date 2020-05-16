@@ -4,7 +4,9 @@
 
 其中：
     train.py为网络训练的主程序
+    
     change_label_to_gray.py将标签图灰度化，以适应网络结构
+    
     lattice+source.py, plot_hex.py, plot_training_loss.py, plot_with_networkX.py, structure_plot.py用于论文作图
     
   
