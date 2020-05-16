@@ -4,7 +4,7 @@
 
 其中：
 
-    train.py为网络训练的主程序， dice_loss.py为代价函数计算， eval.py为训练过程中的测试
+    train.py为网络训练的主程序， dice_loss.py为代价函数计算， eval.py为训练过程中的验证
     
     change_label_to_gray.py将标签图灰度化，以适应网络结构
     
